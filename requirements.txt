@@ -1,0 +1,6 @@
+requests==10.0.1
+pandas==10.0.1
+BeartifulSoup==10.0.1
+matplotlib.pyplot==10.0.1
+csv==10.0.1
+numpy==10.0.1
